@@ -1,6 +1,7 @@
 # git-recover
 ## Recover source files from git objects
 NodeJS script recovering source files from a sane .git directory.
+
 WIP, incomming features: logging system, real argument parsing, recover specific branch/commit...
 ## Usage
 NodeJS and npm/yarn required.
